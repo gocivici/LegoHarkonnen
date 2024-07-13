@@ -4,8 +4,6 @@
  * https://gorkem.cc
  * Requires AccelStepper.h and mp3tf16p.h libraries
  */
-
-
 #include "mp3tf16p.h"
 #include <AccelStepper.h>
 #include <Stepper.h>
